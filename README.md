@@ -1,7 +1,7 @@
 # Championship Challenge
 
 ## Description
-Championship Challenge is a coding challenge designed to allow the challenged developer the freedom to fulfill the requirements of the challenge according to their skillset. As we all know, there are practically indefinite ways to solve any programming problem. In this case, this will allow us to collaberate and see the level of understanding a developer has for their own solution.
+Championship Challenge is a coding challenge designed to allow the challenged developer the freedom to fulfill the requirements of the challenge according to their skill set. As we all know, there are practically indefinite ways to solve any programming problem. In this case, this will allow us to collaborate and see the level of understanding a developer has for their own solution.
 
 ## Requirements
 - Read in data from the file 'Matches.txt'
