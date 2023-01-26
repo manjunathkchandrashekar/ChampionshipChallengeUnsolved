@@ -7,7 +7,7 @@ Championship Challenge is a coding challenge designed to allow a developer freed
 - Read in data from the file 'Matches.txt'
   - Each line is a match-up
   - Compare the results of each and score the teams according to the scoring rules
-- Output (to the console) each team & their scores, in descending order of score (highest to lowest), respecting the format of the example below:
+- Output (to the console) each team & their scores, in descending order of score, respecting the format of the example below:
 
 Ex:
 ````
