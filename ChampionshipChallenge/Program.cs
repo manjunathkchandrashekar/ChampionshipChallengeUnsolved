@@ -1,9 +1,19 @@
 ﻿namespace ChampionshipChallenge;
+using CodeChallenge.Models;
 
-internal class Program
+class Program
 {
     private static void Main(string[] args)
     {
-        // Start writing some code!
+        PositionModel positionModel = new PositionModel();
+
+        Positions positions = positionModel.CheckTeamPosition();
+
+        //Loop through all team records
+        foreach (TeamRecord tr in positions.TeamRecords)
+        {
+            Console.WriteLine("{0} - {1} points", tr.TeamName, tr.Points);
+        }
+        Console.ReadKey();
     }
 }
